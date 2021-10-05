@@ -1,0 +1,14 @@
+{
+  "name": "actions-github",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/thiagotakehana/actions-github.git",
+  "author": "Takehana <thiagoyuiti@yahoo.com.br>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^27.2.4"
+  }
+}
